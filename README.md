@@ -7,14 +7,17 @@
  
  ## <h3>Estudando</h3>
  
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Gultzz-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gultzz-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gultzz-Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Gultzz-Js" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
- <img align="center" alt="Gultzz-Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  <img align="center" alt="Gultzz-PHP" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+ <img align="center" alt="Gultzz-jQuery" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
 </div>
  
+ ##
+ 
+ <h4>Site:</h4><a href="https://gultzz.github.io/-createWebSite-/loja.html">https://gultzz.github.io/-createWebSite-/loja.html</a> <h6>não é portifolio, e nem para vendas reais, é só um teste meu</h6>
  
  ##
  
