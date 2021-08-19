@@ -17,8 +17,8 @@
  
  ##
  
- <h4>Site:</h4><br><a href="https://gultzz.github.io/-createWebSite-/loja.html">https://gultzz.github.io/-createWebSite-/loja.html</a>
- 
+ <h4>Site:</h4><br>
+ https://gultzz.github.io/-createWebSite-/loja.html
  https://gultzz.github.io/portfolio/
  
  ##
