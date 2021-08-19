@@ -17,7 +17,7 @@
  
  ##
  
- <h4>Site:</h4><br><a href="https://gultzz.github.io/-createWebSite-/loja.html">https://gultzz.github.io/-createWebSite-/loja.html</a> <h6>não é portifolio, e nem para vendas reais, é só um teste meu</h6><br>
+ <h4>Site:</h4><br><a href="https://gultzz.github.io/-createWebSite-/loja.html">https://gultzz.github.io/-createWebSite-/loja.html</a> <h6>não é portifolio, e nem para vendas reais, é só um teste meu</h6>
  
  https://gultzz.github.io/portfolio/
  
