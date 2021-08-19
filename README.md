@@ -18,8 +18,8 @@
  ##
  
  <h4>Site:</h4><br>
- https://gultzz.github.io/-createWebSite-/loja.html
- https://gultzz.github.io/portfolio/
+ <a href="https://gultzz.github.io/-createWebSite-/loja.html">https://gultzz.github.io/-createWebSite-/loja.html</a>
+ <a href="https://gultzz.github.io/portfolio/">https://gultzz.github.io/portfolio/</a>
  
  ##
  
