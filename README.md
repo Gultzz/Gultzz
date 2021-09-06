@@ -1,4 +1,4 @@
-## <h2>Gustavo Schultz (Gultzz)</h2>
+<h2>Gustavo Schultz (Gultzz)</h2>
  <div>
   <a href="https://github.com/Gultzz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gultzz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&icon_color=fd418d"/>
@@ -18,7 +18,7 @@
     <img align="center" alt="Gultzz-React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
  
- ##
+ ---
  
  <h4>Sites:</h4>
  <a href="https://gultzz.github.io/portfolio/">https://gultzz.github.io/portfolio/</a><br>
