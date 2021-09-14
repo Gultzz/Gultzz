@@ -21,9 +21,8 @@
  ---
  
  <h4>Sites:</h4>
- <a href="https://gultzz.github.io/portfolio/">https://gultzz.github.io/portfolio/</a><br>
+ <a href="https://gultzz.github.io/portfolio/">https://gultzz.github.io/Portifolio/</a><br>
  <a href="https://gultzz.github.io/-createWebSite-/loja.html">https://gultzz.github.io/-createWebSite-/loja.html</a><br>
-  <h6 style="color:gray; font-weight:100; font-size:6px;">Nenhum tá inteiro responsivo.</h6>
  
  ##
  
