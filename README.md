@@ -36,7 +36,7 @@ var pessoa = {
  <a href="https://gultzz.github.io/portfolio/">https://gultzz.github.io/Portifolio</a><br>
  <a href="https://gultzz.github.io/-createWebSite-/loja.html">https://gultzz.github.io/-createWebSite-/loja.html</a><br>
  <a href="https://gultzz.github.io/github_API_users/">https://gultzz.github.io/github_API_users</a><br>
- <a href="https://gultzz.github.io/tarefas/">https://gultzz.github.io/tarefas</a>
+ <a href="https://gultzz.github.io/tarefas/">https://gultzz.github.io/tarefas</a><br>
  <a href="https://gultzz.github.io/Boolkz/">https://gultzz.github.io/Boolkz</a> 
  
  ##
