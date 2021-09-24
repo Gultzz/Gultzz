@@ -1,4 +1,14 @@
-<h2>Gustavo Schultz (Gultzz)</h2>
+
+```JS
+
+var pessoa = {
+    nome: "Gustavo",
+    idade: 15,
+    skills: ["HTML", "CSS", "JavaScript"]
+}
+
+```
+
  <div>
   <a href="https://github.com/Gultzz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gultzz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&icon_color=fd418d"/>
