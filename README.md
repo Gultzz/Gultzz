@@ -43,6 +43,6 @@ var pessoa = {
         <a href="https://gultzz.github.io/Fylo/">https://gultzz.github.io/Fylo</a><br>
     </div>
     
- ##
+ ![Snake animation](https://github.com/gultzz/gultzz/blob/output/github-contribution-grid-snake.svg)
  
  
