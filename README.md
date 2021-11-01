@@ -2,7 +2,7 @@
 ```JS
 
 var pessoa = {
-    nome: "Gustavo",
+    nome: "Gustavo Schultz",
     idade: 15,
     skills: ["HTML", "CSS", "JavaScript"]
 }
