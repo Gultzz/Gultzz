@@ -4,7 +4,7 @@
 var pessoa = {
     nome: "Gustavo Schultz",
     idade: 15,
-    skills: ["HTML", "CSS", "JavaScript"]
+    skills: ["HTML", "CSS", "JavaScript", "ReactJS", "NodeJS"]
 }
 
 ```
