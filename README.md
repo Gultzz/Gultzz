@@ -32,15 +32,6 @@ var pessoa = {
 </div>
  
  ---
- 
- <h4>Sites:</h4>
-    <div style="display:flex; flex-direction:column;">
-         <a href="https://gultzz.github.io/">https://gultzz.github.io</a><br>
-         <a href="https://gultzz.github.io/Fylo/">https://gultzz.github.io/Fylo</a><br>
-         <a href="https://gultzz.github.io/Boolkz/">https://gultzz.github.io/Boolkz</a><br>
-         <a href="https://gultzz.github.io/github_API_users/">https://gultzz.github.io/github_API_users</a><br>
-         <a href="https://gultzz.github.io/-createWebSite-/loja.html">https://gultzz.github.io/-createWebSite-/loja.html</a><br>
-    </div>
     
  ![Snake animation](https://github.com/gultzz/gultzz/blob/output/github-contribution-grid-snake.svg)
  
