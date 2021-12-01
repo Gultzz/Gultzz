@@ -30,8 +30,6 @@ var pessoa = {
 <!--     <img align="center" alt="Gultzz-Vue" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> -->
     <img align="center" alt="Gultzz-Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
- 
- ---
     
  ![Snake animation](https://github.com/gultzz/gultzz/blob/output/github-contribution-grid-snake.svg)
  
