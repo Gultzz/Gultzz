@@ -5,8 +5,8 @@ var person = {
     name: "Gustavo Schultz",
     age: 15,
     skills: [
-        "HTML", "CSS", "Javascript", "NodeJS", "ReactJS",
-        "React Native", "Git", "Github", "npm", "yarn"
+        "HTML", "CSS", "Javascript", "NodeJS", 
+        "ReactJS", "React Native", "Git", "Github"
     ]
 }
 
