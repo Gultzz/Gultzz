@@ -1,17 +1,13 @@
 
 ```JS
 
-var pessoa = {
-    nome: "Gustavo Schultz",
-    idade: 15,
-    skills: {
-        HTML: {
-            level: 9
-        }
-        CSS: {
-            level: 10
-        }
-    }
+var person = {
+    name: "Gustavo Schultz",
+    age: 15,
+    skills: [
+        "HTML", "CSS", "Javascript", "NodeJS", "ReactJS",
+        "React Native", "Git", "Github", "npm", "yarn"
+    ]
 }
 
 ```
