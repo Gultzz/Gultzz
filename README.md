@@ -33,7 +33,7 @@ var person = {
 <!-- <img align="left" alt="Gultzz-React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> -->
 <img align="left" alt="Gultzz-React" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"><br><br>
 
-### Estudando
+<!-- ### Estudando -->
 
     
  ![Snake animation](https://github.com/gultzz/gultzz/blob/output/github-contribution-grid-snake.svg)
