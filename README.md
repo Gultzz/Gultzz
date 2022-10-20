@@ -5,8 +5,8 @@ var person = {
     name: "Gustavo Schultz",
     age: 16,
     skills: [
-        "HTML", "CSS", "Javascript", "Typescript", "NodeJS", 
-        "ReactJS", "React Native", "Git", "Github", "NextJS"
+        "HTML", "CSS", "Javascript", "Typescript", "NodeJS", "ReactJS",
+        "NextJS", "React Native", "Git", "Github", "GitLab"
     ]
 }
 
@@ -36,6 +36,7 @@ var person = {
 <!-- <img align="left" alt="Gultzz-React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> -->
 <img align="left" alt="Gultzz-React" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <img align="left" alt="Gultzz-Express" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+<img align="left" alt="Gultzz-" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
 <br><br>
 
 
