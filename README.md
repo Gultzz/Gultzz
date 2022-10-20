@@ -31,10 +31,12 @@ var person = {
 <img align="left" alt="Gultzz-React" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="left" alt="Gultzz-Node" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="Gultzz-Git" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="left" alt="Gultzz-Express" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+
 <!-- <img align="left" alt="Gultzz-React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-white-original.svg"> -->
 <!-- <img align="left" alt="Gultzz-React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> -->
-<img align="left" alt="Gultzz-React" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"><br><br>
+<img align="left" alt="Gultzz-React" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+<img align="left" alt="Gultzz-Express" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+<br><br>
 
 
 <!-- ### Estudando -->
