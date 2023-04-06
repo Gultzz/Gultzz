@@ -3,7 +3,7 @@
 
 var person = {
     name: "Gustavo Schultz",
-    age: 16,
+    age: 17,
     skills: [
         "HTML", "CSS", "Javascript", "Typescript", "NodeJS", "ReactJS",
         "NextJS", "React Native", "Git", "Github", "GitLab", "Figma"
