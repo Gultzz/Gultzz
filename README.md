@@ -36,7 +36,6 @@ var person = {
 <!-- <img align="left" alt="Gultzz-React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> -->
 <img align="left" alt="Gultzz-React" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <img align="left" alt="Gultzz-Express" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-<img style="background-color: #222;" align="left" alt="Gultzz-Express" width="35px" src="https://www.svgrepo.com/show/353729/fastify-icon.svg">
 <br><br>
 
 
