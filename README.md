@@ -42,6 +42,6 @@ var person = {
 <!-- ### Estudando -->
 
     
- ![Snake animation](https://github.com/gultzz/gultzz/blob/output/github-contribution-grid-snake.svg)
+ <!--![Snake animation](https://github.com/gultzz/gultzz/blob/output/github-contribution-grid-snake.svg)-->
  
  
