@@ -6,7 +6,8 @@ var person = {
     age: 17,
     skills: [
         "HTML", "CSS", "Javascript", "Typescript", "NodeJS", "ReactJS",
-        "NextJS", "React Native", "Git", "Github", "GitLab", "Figma"
+        "NextJS", "React Native", "Git", "Github", "GitLab", "Figma",
+        "Docker", "NestJS", "MySQL"
     ]
 }
 
