@@ -1,7 +1,7 @@
 
 ```JS
 
-let person = {
+const person = {
     name: "Gustavo Schultz",
     age: 17,
     skills: [
