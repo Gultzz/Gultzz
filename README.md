@@ -3,7 +3,7 @@
 
 const person = {
     name: "Gustavo Schultz",
-    age: 17,
+    age: 18,
     skills: [
         "HTML", "CSS", "Javascript", "Typescript", "NodeJS", "ReactJS",
         "NextJS", "React Native", "Git", "Github", "GitLab", "Figma",
