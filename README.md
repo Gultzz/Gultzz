@@ -7,7 +7,7 @@ const person = {
     skills: [
         "HTML", "CSS", "Javascript", "Typescript", "NodeJS", "ReactJS",
         "NextJS", "React Native", "Git", "Github", "GitLab", "Figma",
-        "Express", "Docker", "NestJS", "MySQL"
+        "Express", "Docker", "NestJS", "MySQL", "AngularJS"
     ]
 }
 
@@ -46,6 +46,8 @@ const person = {
 <img align="left" alt="NestJS" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg" />
 
 <img align="left" alt="MySQL" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain.svg" />
+
+<img align="left" alt="MySQL" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" />
     
 <!--<br></br>![Snake animation](https://github.com/gultzz/gultzz/blob/output/github-contribution-grid-snake.svg) -->
  
