@@ -14,7 +14,7 @@ const person = {
 ```
 ---
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/gustavo.schultz.cruz.iatec.png" alt="TryHackMe Achievements" />
+<a href="https://tryhackme.com/p/gustavo.schultz.cruz.iatec" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/gustavo.schultz.cruz.iatec.png" alt="TryHackMe Achievements" /></a>
 
 ---
     
