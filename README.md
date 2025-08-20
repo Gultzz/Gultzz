@@ -3,18 +3,16 @@
 
 const person = {
     name: "Gustavo Schultz",
-    age: 18,
+    age: 19,
     skills: [
         "HTML", "CSS", "Javascript", "Typescript", "NodeJS", "ReactJS",
         "NextJS", "React Native", "Git", "Github", "GitLab", "Figma",
-        "Express", "Docker", "NestJS", "MySQL", "AngularJS"
+        "Express", "Docker", "NestJS", "MySQL", "AngularJS", "D3.JS",
+        "C#"
     ]
 }
 
 ```
----
-
-<a href="https://tryhackme.com/p/gustavo.schultz.cruz.iatec" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/gustavo.schultz.cruz.iatec.png" alt="TryHackMe Achievements" /></a>
 
 ---
     
@@ -50,8 +48,20 @@ const person = {
 
 <img align="left" alt="MySQL" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain.svg" />
 
-<img align="left" alt="MySQL" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" />
-    
-<!--<br></br>![Snake animation](https://github.com/gultzz/gultzz/blob/output/github-contribution-grid-snake.svg) -->
+<img align="left" alt="AngularJS" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" />
+
+<img align="left" alt="D3.JS" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/d3js/d3js-original.svg" />
+
+<img align="left" alt="C#" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" />
+
+<br/>
+<br/>
+
+---
+
+### TryHackMe
+
+<a href="https://tryhackme.com/p/gustavo.schultz.cruz.iatec" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/gustavo.schultz.cruz.iatec.png" alt="TryHackMe Achievements" /></a>
+
  
  
