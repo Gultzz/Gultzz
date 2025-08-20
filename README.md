@@ -12,6 +12,9 @@ const person = {
 }
 
 ```
+---
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/gustavo.schultz.cruz.iatec.png" alt="TryHackMe Achievements" />
 
 ---
     
