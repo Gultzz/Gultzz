@@ -58,9 +58,6 @@ const person = {
 <br/>
 
 
----
-
-
 ### TryHackMe
 
 
