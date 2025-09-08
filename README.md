@@ -54,14 +54,5 @@ const person = {
 
 <img align="left" alt="C#" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" />
 
-<br/>
-<br/>
-
-
-### TryHackMe
-
-
-<a href="https://tryhackme.com/p/gustavo.schultz.cruz.iatec" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/gustavo.schultz.cruz.iatec.png" alt="TryHackMe Achievements" /></a>
-
  
  
