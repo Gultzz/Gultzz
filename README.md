@@ -7,7 +7,7 @@ const person = {
     skills: [
         "HTML", "CSS", "Javascript", "Typescript", "NodeJS", "ReactJS",
         "NextJS", "React Native", "Git", "Github", "GitLab", "Figma",
-        "Express", "Docker", "NestJS", "MySQL", "AngularJS", "D3.JS",
+        "Express", "Docker", "NestJS", "MySQL", "AngularJS", "Angular", "D3.JS",
         "C#"
     ]
 }
